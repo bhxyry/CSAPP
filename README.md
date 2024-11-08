@@ -2,7 +2,7 @@
 ## 个人CSAPP学习记录
 ### 章节学习记录
 - [x] 计算机系统漫游 
-- [ ] 信息的表示和处理
+- [x] 信息的表示和处理
 ### lab记录
 - [x] Data Lab
 - [ ] Bomb Lab
@@ -13,7 +13,7 @@
 - [ ] Proxy Lab
 ### 相关资源
 - 知识总结
-[https://wdxtub.com/work/](不周山--读薄CSAPP)
-[https://fengmuzi2003.gitbook.io/csapp3e](CSAPP--重点读)
+[不周山--读薄CSAPP](https://wdxtub.com/work/)
+[CSAPP--重点读](https://fengmuzi2003.gitbook.io/csapp3e)
 - 实验环境配置
-[https://github.com/bmadone/csapp-labs](Mac+Docker配置)
+[Mac+Docker配置](https://github.com/bmadone/csapp-labs)
