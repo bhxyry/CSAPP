@@ -16,7 +16,7 @@
 
 ```c
 gdb name				//开始调试
-b	fun_name		  //设置断点
+b fun_name		  //设置断点
 i b						  //查看断点信息
 r 							//运行程序
 dias 						//查看当前函数的反汇编
